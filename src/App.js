@@ -3,7 +3,7 @@ import Header from './components/header/Header'
 import Contador from './components/contador/Contador'
 
 function App() {
-  const nombre = 'hola React'
+  const nombre = 'Hola React'
   return (
     <div>
       <Header />
